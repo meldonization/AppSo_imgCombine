@@ -5,7 +5,7 @@ Usage: python image_combine imageA(left) imageB(right)
 __author__ = 'Meldonization'
 
 # Please change `watermarkfile` location once for all!!
-wmfile = "/Users/mengzy/Desktop/appso-mark_right.png" 
+wmfile = "/Users/xxxxxx/Desktop/appso-mark_right.png" 
 
 # Might need to change these if AppSo writer rules altered
 spacing = 8 # the spacing in pix
