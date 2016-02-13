@@ -1,6 +1,6 @@
 # AppSo_imgCombine
 
-**PIL** needed, install by `pip install pillow`
+**PIL** needed, install by `sudo easy_install pip && pip install pillow`
 
 ```
 Usage: python image_combine imageA(left) imageB(right)
